@@ -6,7 +6,7 @@ PROJECT_NAME="acme.sh"
 
 PROJECT_ENTRY="acme.sh"
 
-PROJECT="https://github.com/Neilpang/$PROJECT_NAME"
+PROJECT="https://github.com/kenael/$PROJECT_NAME"
 
 DEFAULT_INSTALL_HOME="$HOME/.$PROJECT_NAME"
 
@@ -123,17 +123,17 @@ NOTIFY_MODE_CERT=1
 
 NOTIFY_MODE_DEFAULT=$NOTIFY_MODE_BULK
 
-_DEBUG_WIKI="https://github.com/Neilpang/acme.sh/wiki/How-to-debug-acme.sh"
+_DEBUG_WIKI="https://github.com/kenael/acme.sh/wiki/How-to-debug-acme.sh"
 
-_PREPARE_LINK="https://github.com/Neilpang/acme.sh/wiki/Install-preparations"
+_PREPARE_LINK="https://github.com/kenael/acme.sh/wiki/Install-preparations"
 
-_STATELESS_WIKI="https://github.com/Neilpang/acme.sh/wiki/Stateless-Mode"
+_STATELESS_WIKI="https://github.com/kenael/acme.sh/wiki/Stateless-Mode"
 
-_DNS_ALIAS_WIKI="https://github.com/Neilpang/acme.sh/wiki/DNS-alias-mode"
+_DNS_ALIAS_WIKI="https://github.com/kenael/acme.sh/wiki/DNS-alias-mode"
 
-_DNS_MANUAL_WIKI="https://github.com/Neilpang/acme.sh/wiki/dns-manual-mode"
+_DNS_MANUAL_WIKI="https://github.com/kenael/acme.sh/wiki/dns-manual-mode"
 
-_NOTIFY_WIKI="https://github.com/Neilpang/acme.sh/wiki/notify"
+_NOTIFY_WIKI="https://github.com/kenael/acme.sh/wiki/notify"
 
 _DNS_MANUAL_ERR="The dns manual mode can not renew automatically, you must issue it again manually. You'd better use the other modes instead."
 

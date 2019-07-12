@@ -2,5 +2,5 @@
 
 deploy hook usage:
 
-https://github.com/Neilpang/acme.sh/wiki/deployhooks
+https://github.com/kenael/acme.sh/wiki/deployhooks
 
